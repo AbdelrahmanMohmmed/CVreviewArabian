@@ -1,0 +1,351 @@
+{
+    "Speech Therapist": [
+        "communication"
+    ],
+    "Architectural Designer": [],
+    "Electrical Engineer": [],
+    "Account Manager": [
+        "communication"
+    ],
+    "Purchasing Agent": [],
+    "Customer Service Manager": [
+        "leadership"
+    ],
+    "SEM Specialist": [],
+    "Nurse Manager": [
+        "communication"
+    ],
+    "Legal Counsel": [],
+    "Legal Secretary": [],
+    "Electrical Designer": [],
+    "Physician Assistant": [],
+    "UX/UI Designer": [
+        "adobe xd",
+        "sketch"
+    ],
+    "Mechanical Engineer": [
+        "system design"
+    ],
+    "Procurement Manager": [
+        "communication"
+    ],
+    "Substance Abuse Counselor": [],
+    "Front-End Developer": [
+        "html",
+        "javascript",
+        "css"
+    ],
+    "Environmental Engineer": [],
+    "Database Administrator": [],
+    "Marketing Analyst": [
+        "tableau",
+        "data visualization",
+        "python",
+        "power bi",
+        "communication",
+        "sql"
+    ],
+    "Data Entry Clerk": [],
+    "Research Analyst": [
+        "communication",
+        "critical thinking"
+    ],
+    "Quality Assurance Analyst": [],
+    "Civil Engineer": [],
+    "Systems Administrator": [
+        "sql",
+        "mysql"
+    ],
+    "Software Engineer": [
+        "nosql",
+        "java",
+        "django",
+        "python",
+        "communication",
+        "sql"
+    ],
+    "Environmental Consultant": [],
+    "Urban Planner": [],
+    "Tax Consultant": [
+        "communication"
+    ],
+    "Marketing Manager": [],
+    "Social Media Manager": [],
+    "Business Development Manager": [],
+    "Marketing Coordinator": [],
+    "Art Director": [],
+    "Event Coordinator": [
+        "communication",
+        "creativity"
+    ],
+    "Executive Assistant": [
+        "time management",
+        "communication",
+        "project management"
+    ],
+    "Investment Banker": [],
+    "Key Account Manager": [],
+    "Network Administrator": [
+        "communication",
+        "azure"
+    ],
+    "Teacher": [],
+    "SEO Specialist": [],
+    "Nurse Practitioner": [],
+    "SEO Analyst": [],
+    "Data Engineer": [
+        "sql"
+    ],
+    "Research Scientist": [],
+    "HR Coordinator": [],
+    "Data Scientist": [
+        "machine learning",
+        "deep learning",
+        "python"
+    ],
+    "Psychologist": [
+        "critical thinking"
+    ],
+    "Architect": [],
+    "Pediatrician": [
+        "communication"
+    ],
+    "Systems Analyst": [],
+    "Supply Chain Manager": [],
+    "Software Architect": [
+        "docker",
+        "azure"
+    ],
+    "Customer Success Manager": [
+        "communication"
+    ],
+    "Operations Manager": [
+        "leadership"
+    ],
+    "Digital Marketing Specialist": [],
+    "Occupational Therapist": [
+        "communication"
+    ],
+    "Software Tester": [],
+    "Brand Ambassador": [
+        "communication"
+    ],
+    "Administrative Assistant": [
+        "time management",
+        "communication",
+        "data analysis"
+    ],
+    "Content Writer": [
+        "creativity"
+    ],
+    "Web Developer": [
+        "html",
+        "javascript",
+        "css",
+        "angular",
+        "react"
+    ],
+    "Landscape Designer": [
+        "project management"
+    ],
+    "QA Engineer": [
+        "leadership"
+    ],
+    "Physical Therapist": [],
+    "Sales Representative": [],
+    "Inventory Analyst": [],
+    "Family Lawyer": [],
+    "Market Research Analyst": [],
+    "Legal Assistant": [
+        "communication"
+    ],
+    "Product Designer": [
+        "sketch"
+    ],
+    "Office Manager": [],
+    "Financial Controller": [],
+    "Procurement Specialist": [],
+    "Customer Service Representative": [],
+    "Front-End Engineer": [
+        "frontend development",
+        "javascript",
+        "angular",
+        "react"
+    ],
+    "Copywriter": [],
+    "Interior Designer": [],
+    "Investment Analyst": [],
+    "Email Marketing Specialist": [
+        "communication"
+    ],
+    "Litigation Attorney": [],
+    "Registered Nurse": [],
+    "Sales Manager": [],
+    "QA Analyst": [],
+    "Aerospace Engineer": [],
+    "Mechanical Designer": [
+        "communication",
+        "sketch",
+        "adobe xd",
+        "creativity"
+    ],
+    "Systems Engineer": [
+        "system design"
+    ],
+    "Project Coordinator": [
+        "time management",
+        "communication"
+    ],
+    "UI Developer": [
+        "web development",
+        "html",
+        "javascript",
+        "css"
+    ],
+    "Graphic Designer": [
+        "communication",
+        "creativity"
+    ],
+    "Social Media Coordinator": [
+        "adaptability",
+        "communication",
+        "creativity"
+    ],
+    "Family Nurse Practitioner": [],
+    "Brand Manager": [],
+    "Software Developer": [
+        "java",
+        "kotlin",
+        "android",
+        "react",
+        "swift"
+    ],
+    "Structural Engineer": [
+        "project management"
+    ],
+    "Business Analyst": [
+        "communication"
+    ],
+    "Data Analyst": [
+        "hadoop",
+        "pytorch",
+        "big data",
+        "python",
+        "spark",
+        "tensorflow"
+    ],
+    "Landscape Architect": [],
+    "Web Designer": [
+        "web development",
+        "html",
+        "javascript",
+        "css"
+    ],
+    "Marketing Specialist": [],
+    "Human Resources Manager": [],
+    "Java Developer": [
+        "java"
+    ],
+    "Public Relations Specialist": [
+        "communication"
+    ],
+    "Network Engineer": [],
+    "Dental Hygienist": [],
+    "Financial Advisor": [],
+    "Wedding Planner": [],
+    "Accountant": [],
+    "Network Analyst": [],
+    "Account Director": [
+        "communication",
+        "data analysis"
+    ],
+    "Process Engineer": [],
+    "Technical Writer": [],
+    "Chemical Engineer": [
+        "project management"
+    ],
+    "HR Manager": [],
+    "Pharmaceutical Sales Representative": [],
+    "Marketing Director": [
+        "communication"
+    ],
+    "Product Manager": [
+        "agile",
+        "communication",
+        "product management"
+    ],
+    "Procurement Coordinator": [],
+    "Supply Chain Analyst": [],
+    "Network Technician": [
+        "cybersecurity"
+    ],
+    "UX Researcher": [],
+    "Social Worker": [
+        "communication"
+    ],
+    "Finance Manager": [],
+    "Event Planner": [
+        "communication"
+    ],
+    "Network Security Specialist": [
+        "cybersecurity"
+    ],
+    "IT Administrator": [],
+    "Customer Support Specialist": [
+        "communication"
+    ],
+    "Account Executive": [],
+    "Back-End Developer": [
+        "communication"
+    ],
+    "Event Manager": [],
+    "IT Manager": [
+        "project management",
+        "cybersecurity",
+        "leadership"
+    ],
+    "Legal Advisor": [],
+    "Database Developer": [
+        "nosql",
+        "cassandra",
+        "mongodb"
+    ],
+    "Paralegal": [
+        "communication"
+    ],
+    "Sales Consultant": [
+        "communication"
+    ],
+    "Project Manager": [
+        "project management",
+        "communication",
+        "leadership"
+    ],
+    "Chemical Analyst": [],
+    "Financial Analyst": [],
+    "Art Teacher": [
+        "communication",
+        "creativity"
+    ],
+    "IT Support Specialist": [],
+    "Personal Assistant": [
+        "time management",
+        "communication"
+    ],
+    "Market Analyst": [],
+    "HR Generalist": [
+        "communication"
+    ],
+    "Veterinarian": [
+        "communication"
+    ],
+    "Sales Associate": [
+        "communication"
+    ],
+    "Investment Advisor": [
+        "communication"
+    ],
+    "Financial Planner": [
+        "communication"
+    ]
+}
